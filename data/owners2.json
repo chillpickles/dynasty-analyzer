@@ -1,0 +1,168 @@
+[
+  {
+    "user_id": "187019213704413184",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": null,
+    "display_name": "chrismurphy",
+    "avatar": "22ad7eee5bb544c5628904867f6a19e1"
+  },
+  {
+    "user_id": "341737534788853760",
+    "settings": null,
+    "metadata": {
+      "team_name": "Herberts & Spices",
+      "mention_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/363eb8e2f7ae14b5e380dffce2c89a79.jpg",
+      "archived": "off",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "thatkeltonguy",
+    "avatar": "df846e7cd0e2b59e756c04ffd71669ea"
+  },
+  {
+    "user_id": "346375176335736832",
+    "settings": null,
+    "metadata": {
+      "team_name": "2 and 0 vs thatKeltonGuy",
+      "mention_pn": "on",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "Chillary",
+    "avatar": "3ba9b13839d8aae42305608dfbb1bfe2"
+  },
+  {
+    "user_id": "458842405097959424",
+    "settings": null,
+    "metadata": {
+      "team_name": "Mayo Munchers Anonymous",
+      "mention_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/7ee92ff7c027cd4b5f6436964c950a41.jpg",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": true,
+    "is_bot": false,
+    "display_name": "dangerousafe",
+    "avatar": "b4a2e3e59418a074bfc110b1d9c1c1c5"
+  },
+  {
+    "user_id": "467902305371418624",
+    "settings": null,
+    "metadata": {
+      "team_name": "The Bryce Is Right",
+      "mention_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/0f91abe0ac8f8d3c16b2d7c521e50e56.jpg",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "lordlarson",
+    "avatar": null
+  },
+  {
+    "user_id": "473615845952581632",
+    "settings": null,
+    "metadata": {
+      "user_message_pn": "on",
+      "transaction_waiver": "on",
+      "transaction_trade": "on",
+      "transaction_free_agent": "on",
+      "transaction_commissioner": "on",
+      "trade_block_pn": "on",
+      "team_name_update": "off",
+      "team_name": "Nut Video (Sound On)",
+      "player_nickname_update": "off",
+      "player_like_pn": "on",
+      "mention_pn": "on",
+      "mascot_message": "off",
+      "join_voice_pn": "off",
+      "avatar": "https://sleepercdn.com/uploads/994db0ef7d760f0d5b3aacabab71b3ae.jpg",
+      "archived": "off",
+      "allow_sms": "on",
+      "allow_pn": "off"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "RyneA",
+    "avatar": "5fc8c8dafc5c34f1aab2471c6e77fc6a"
+  },
+  {
+    "user_id": "712880251478286336",
+    "settings": null,
+    "metadata": {
+      "team_name": "The CTE Cuties ",
+      "mention_pn": "on",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "yungkitty404",
+    "avatar": "53beb68d65a69a4dfb60c0a1c666582a"
+  },
+  {
+    "user_id": "753023001171521536",
+    "settings": null,
+    "metadata": {
+      "team_name": "devonta’s inferno ",
+      "mention_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/f24daeb123c72cee654392ab9cb46b64.jpg",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "yungmean",
+    "avatar": "4a476438958667a87ab087c2d7069ed6"
+  },
+  {
+    "user_id": "784555293332987904",
+    "settings": null,
+    "metadata": {
+      "team_name": "Dallas Dueces ",
+      "mention_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/7697584d726506888e7d37c2b56fc085.jpg",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "Duded3",
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c"
+  },
+  {
+    "user_id": "791510563615252480",
+    "settings": null,
+    "metadata": {
+      "team_name": "Bangbus West",
+      "mention_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/e7b7aeda37ccd78cfa6484e7bc786846.jpg",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "916404504579575808",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "Jayavarman",
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6"
+  }
+]
